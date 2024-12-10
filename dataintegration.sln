@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "dataintegration", "dataintegration\dataintegration.dtproj", "{8C0F0DB2-4ECD-481F-9CBE-C8D34EE19266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0F0DB2-4ECD-481F-9CBE-C8D34EE19266}.Development|Default.ActiveCfg = Development
+		{8C0F0DB2-4ECD-481F-9CBE-C8D34EE19266}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0ED5FB-6C0F-49B8-8B50-15C2FF099C2F}
+	EndGlobalSection
+EndGlobal
